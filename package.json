@@ -1,0 +1,11 @@
+{
+  "name": "idk",
+  "version": "1.0.0",
+  "description": "im testing stuff",
+  "main": "helloMocha.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
